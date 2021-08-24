@@ -1,0 +1,6 @@
+  725  mkdir week1
+  726  cd week1/
+  727  ls /usr/bin/*gcc* | sort -r 
+  728  ls /usr/bin/*gcc* | sort -r  > ex1.txt
+  729  history > ex2.txt
+  730  history | tail -n 6  > ex2.txt # please, i don't want to show you everything 
