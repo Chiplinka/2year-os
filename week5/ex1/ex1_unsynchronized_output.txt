@@ -1,0 +1,30 @@
+0 thread created
+1 thread created
+Hello from thread 0!
+2 thread created
+3 thread created
+4 thread created
+Hello from thread 3!
+5 thread created
+6 thread created
+Hello from thread 5!
+7 thread created
+Hello from thread 6!
+8 thread created
+9 thread created
+Hello from thread 8!
+Terminating of thread 0
+Hello from thread 4!
+Hello from thread 2!
+Hello from thread 1!
+Terminating of thread 1
+Terminating of thread 2
+Terminating of thread 3
+Terminating of thread 4
+Hello from thread 7!
+Terminating of thread 5
+Terminating of thread 6
+Terminating of thread 7
+Terminating of thread 8
+Hello from thread 9!
+Terminating of thread 9
