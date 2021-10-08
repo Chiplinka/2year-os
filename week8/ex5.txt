@@ -1,0 +1,3 @@
+Physical address - adress of a real data slot in hardware (physical) memory 
+Virtual address  -  pointer to a memory space that an OS gives to a process to work with.
+Virtual memory amound is usually larger than physical memory. Sometimes VA and PA are different, so VA is mapped to the PAs dynamically in RAM.

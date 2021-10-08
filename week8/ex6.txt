@@ -1,0 +1,3 @@
+Page size is 8 KB. We need to multiply by 2^10 to get page size in  bits. it will be 2^13 bits. Therefore, offset is equal to 13.
+Adress size is 16 bits, so we need 2^(length - offset) = 2^(16 - 13) = 2^3 = 8.
+Hence, we will need 8 entries.                  
