@@ -1,0 +1,7 @@
+An example of sequence of references that will result in increased Hit/Miss
+ratio can be sequence what contains only one reference (1,1,1,1,1...1,1) 
+it will have 1 miss and all ours will be hits.
+
+An example of sequence of references that will result in decreased Hit/Miss
+ratio can be sequence what contains different references (1,2,3,4,5...n,n+1)
+it will have all miss and 0 hits.
