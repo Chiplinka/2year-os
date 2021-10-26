@@ -1,6 +1,0 @@
--rw-rw-r-- 1 admin admin 20 Oct 26 23:26 _ex3.txt
--rwxrw-rwx 1 admin admin 20 Oct 26 23:26 _ex3.txt
--rwxrwxrwx 1 admin admin 20 Oct 26 23:26 _ex3.txt
-660: Makes the file avaliable for read\write for user and removes all permissions for other users.
-775: Gives all permissions for user and read/execute access for other users.
-777: Gives all permissions of that file for everyone.
