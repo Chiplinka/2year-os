@@ -1,0 +1,13 @@
+Avoidance
+There are certain methods that can help us avoid a deadlock, but they require some information about future requests.
+If we are able to disclose such information, this is best method to prevent it.
+There are four significant algorithms for avoiding the deadlock: resource Trajectories, safe and Unsafe States, the Baker's Algorithm for a single resource, the Baker's Algorithm for a multiple resource 
+
+Prevention
+It's possible that we will not be able to totally avoid the deadlock because we won't be able to feed the algorithm with information about future requests.
+In such a circumstance, we may choose to employ the precautionary principle.
+There are four main strategies to prevent the deadlock: attacking the Mutual-Exclusion Condition, attacking the Hold-and-Wait Condition, attacking the No-Preemption Condition, attacking the Circular Wait Condition
+
+Recovery
+This method might be useful if the deadlock has already been identified; therefore, it can be employed if all other options have failed.
+There are three basic approaches in a book to recover from the deadlock: through Preemption, through Rollback, through Killing Process
